@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ que\ modela\ a\ un\ veterinario\ de\ la\ cl\u00EDnica.\r\n\ Contiene\ sus\ datos\ personales\ y\ la\ lista\ de\ mascotas\ que\ tiene\ a\ cargo.\r\n\r\n\ @author\ Benjam\u00EDn\ Jarqu\u00EDn\ Badilla\r\n\ @version\ 1.01\r\n
+comment1.params=nombre\ codigoLicencia
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ que\ crea\ un\ nuevo\ veterinario.\r\n\r\n\ @param\ nombre\ \ \ \ \ \ \ \ \ \ \ \ Nombre\ del\ veterinario\r\n\ @param\ codigoLicencia\ \ \ \ C\u00F3digo\ de\ licencia\ profesional\r\n
+comment2.params=mascota
+comment2.target=void\ asignarMascota(Mascota)
+comment2.text=\r\n\ Asigna\ una\ mascota\ al\ veterinario.\r\n\r\n\ @param\ mascota\ Mascota\ que\ se\ va\ a\ asignar\r\n
+comment3.params=
+comment3.target=java.lang.String\ consultarNombreMisMascotas()
+comment3.text=\r\n\ Devuelve\ una\ cadena\ con\ los\ nombres\ de\ todas\ las\ mascotas\ asignadas.\r\n\r\n\ @return\ Nombres\ de\ las\ mascotas\ separados\ por\ espacio\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Retorna\ el\ nombre\ del\ veterinario.\r\n\r\n\ @return\ Nombre\ del\ veterinario\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Genera\ una\ representaci\u00F3n\ en\ texto\ del\ estado\ del\ veterinario.\r\n\r\n\ @return\ Informaci\u00F3n\ completa\ del\ veterinario\ y\ sus\ mascotas\r\n
+numComments=6
